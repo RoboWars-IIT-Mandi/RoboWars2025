@@ -1,7 +1,8 @@
 # Priority
-- ORDER KARNA hai - Call roboverse if WA contact is legit or not
+- ORDER KARNA hai
 - S7 Tool steel for inserts
 - Ask A2Z for availability of large strength hardened bolts, ESC, motors cheaper if possible, Tool steel, lugs (eye terminals)
+- Technobotic WaterJet and machining services
 
 - Remove stripped screws from current drive motors
 - Center M4 holes in shafts
