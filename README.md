@@ -6,6 +6,7 @@
 
 - Remove stripped screws from current drive motors
 - Center M4 holes in shafts
+- M16x2 Thread available?
 
 - Cut Excess from chassis - and NEW chassis CAD with new components
 
