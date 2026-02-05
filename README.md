@@ -4,6 +4,8 @@
 - Ask A2Z for availability of large strength hardened bolts, ESC, motors cheaper if possible, Tool steel, lugs (eye terminals)
 - Technobotic WaterJet and machining services
 
+- AskAaron says keyless bushing are good - seacrh the archives for wheels hubs on live axle
+
 - Remove stripped screws from current drive motors
 - Center M4 holes in shafts
 - M16x2 Thread available?
