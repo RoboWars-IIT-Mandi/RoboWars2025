@@ -5,6 +5,8 @@
 - Ask A2Z for availability of large strength hardened bolts Tool steel and other raw materials
 - Technobotix WaterJet and machining services
 
+- Weapon shaft ka decide karna hai
+
 - Remove stripped screws from current drive motors
 - Center M4 holes in shafts
 - M16x2 Thread available?
