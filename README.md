@@ -1,9 +1,9 @@
 # Priority
 - ORDER KARNA hai
-- 400a - 500a fuse ( Robu has it)
 - S7 Tool steel for inserts
-- Ask A2Z for availability of large strength hardened bolts Tool steel and other raw materials
+- Ask A2Z for availability of M16 hardened bolts, Tool steel and other raw materials - financing
 - Technobotix WaterJet and machining services
+- Invoices for Robokits and Technobotix
 
 - Weapon shaft ka decide karna hai
 
