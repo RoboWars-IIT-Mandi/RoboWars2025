@@ -1,15 +1,12 @@
 # Priority
 - Old chassis CAD with new components
-- Weapon CAD
+- Weapon Assembly CAD
 - Aluminium half inch chassis CAD
 
-- MLM10 hub manufacturing
-- H600 Mount Holes + Motor bracket in metal at specific thickness
-- Motor pulley turning for PJ belt - belt is flat bottom so see accordingly
+- H600 Motor bracket in metal at specific thickness
 - Cut Excess from chassis
 
 - Motor Mounts for Drive
-- Wheels fix karne somehow
 
 - Maybe weapon from steel available from A2Z - use the 20mm EndMill from Deimos - material from Delhi
 
