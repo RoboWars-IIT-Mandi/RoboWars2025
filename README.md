@@ -1,12 +1,16 @@
 # Priority
-- Old chassis CAD with new components
-- Weapon Assembly CAD
+- Old chassis CAD with new components and excess removed
+- Weapon Assembly CAD and manufacturing
+- 3D printed stuff
+- Motor Mounts for Drive
+- Cut Excess from chassis
+- Wiring and soldering
+
+
 - Aluminium half inch chassis CAD
 
 - H600 Motor bracket in metal at specific thickness
-- Cut Excess from chassis
 
-- Motor Mounts for Drive
 
 - Maybe weapon from steel available from A2Z - use the 20mm EndMill from Deimos - material from Delhi
 
