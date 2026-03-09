@@ -1,7 +1,12 @@
 # Priority
+- Buy Drill Bits and Screws
 - Old chassis CAD with new components and excess removed
-- Weapon Assembly CAD and manufacturing
-- 3D printed stuff
+- Wedge New
+- Keyway in motor pulley
+- Welding agar kuch karni
+- Weapon Assembly CAD 
+- Weapon Assembly manufacturing
+- 3D printed stuff - Encoder mount, Drive Support
 - Motor Mounts for Drive
 - Cut Excess from chassis
 - Wiring and soldering
