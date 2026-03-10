@@ -2,10 +2,9 @@
 - Drill Bits and Screws
 - Keyway in motor pulley
 - Weapon pulley coupler finishing (Maybe new from big piece if time allows - press fit to weapon tube)
-- Spacer(MS Laser) to uplift weapon motor as belt adti hai (check in CAD the belt length)
-- Drive mounts laser leftover and welding
-- Drive mounts laser for bending
-- Check in CAD the belt length
+- Spacer (for both the weapon mounts) (MS Laser) to uplift weapon motor as belt adti hai (check in CAD the belt length), buy M6 more lengthier for the same
+- Drive mounts old laser have a problem (thickness of bottom plate not considered) have the edges bent, or have one side weld one side bend, test bends with the extra ones)
+- Drive mounts laser for bending (consider thickness of aluminium bottom plate as well)
 - Weapon Tube manufacturing
 - Weapon coupler holes (kaunse screws and countersink? and request to give Tap for same)
 - 16 to 15 on sides to fit in bearing housing, and cut to length as well
