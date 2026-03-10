@@ -5,7 +5,7 @@
 - Spacer (for both the weapon mounts) (MS Laser) to uplift weapon motor as belt adti hai (check in CAD the belt length), buy M6 more lengthier for the same
 - Drive mounts old laser have a problem (thickness of bottom plate not considered) have the edges bent, or have one side weld one side bend, test bends with the extra ones)
 - Drive mounts laser for bending (consider thickness of aluminium bottom plate as well)
-- Weapon Tube manufacturing
+- Weapon Tube manufacturing (check if flat surface pe coupling hole and screw head ki jagah hai kya? Screw ek hi side karni, increase tube length slightly)
 - Weapon coupler holes (kaunse screws and countersink? and request to give Tap for same)
 - 16 to 15 on sides to fit in bearing housing, and cut to length as well
 - 3D printed stuff - Drive back support, maybe wedges, motor bracket
